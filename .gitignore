@@ -1,0 +1,3 @@
+#ignore pyothin virtual enviroment
+
+.env
